@@ -1,0 +1,38 @@
+<?xml-stylesheet href="#s1" type="text/css"?>
+    <DOCUMENT>
+	 <s id="s1">
+	        identified_count { display: none }
+	        identified_noun { display: block }
+	 </s><recognized>
+<identified_noun>elements</identified_noun><identified_count>0</identified_count>
+<identified_noun>elements</identified_noun><identified_count>1</identified_count>
+<identified_noun>venice</identified_noun><identified_count>2</identified_count>
+<identified_noun>bible</identified_noun><identified_count>3</identified_count>
+<identified_noun>broyden–fletcher–goldfarb–shanno</identified_noun><identified_count>4</identified_count>
+<identified_noun>newton</identified_noun><identified_count>5</identified_count>
+<identified_noun>newton</identified_noun><identified_count>6</identified_count>
+<identified_noun>bfgs</identified_noun><identified_count>7</identified_count>
+<identified_noun>bfgs</identified_noun><identified_count>8</identified_count>
+<identified_noun>bfgs</identified_noun><identified_count>9</identified_count>
+<identified_noun>bfgs</identified_noun><identified_count>10</identified_count>
+<identified_noun>powys</identified_noun><identified_count>11</identified_count>
+<identified_noun>wales</identified_noun><identified_count>12</identified_count>
+<identified_noun>wales</identified_noun><identified_count>13</identified_count>
+<identified_noun>wales</identified_noun><identified_count>14</identified_count>
+<identified_noun>england</identified_noun><identified_count>15</identified_count>
+<identified_noun>shrewsbury</identified_noun><identified_count>16</identified_count>
+<identified_noun>antikythera</identified_noun><identified_count>17</identified_count>
+<identified_noun>antikythera</identified_noun><identified_count>18</identified_count>
+<identified_noun>antikythera</identified_noun><identified_count>19</identified_count>
+<identified_noun>japan</identified_noun><identified_count>20</identified_count>
+<identified_noun>sun</identified_noun><identified_count>21</identified_count>
+<identified_noun>sun</identified_noun><identified_count>22</identified_count>
+<identified_noun>sun</identified_noun><identified_count>23</identified_count>
+<identified_noun>sun</identified_noun><identified_count>24</identified_count>
+<identified_noun>moon</identified_noun><identified_count>25</identified_count>
+<identified_noun>moon</identified_noun><identified_count>26</identified_count>
+<identified_noun>moon</identified_noun><identified_count>27</identified_count>
+<identified_noun>earth</identified_noun><identified_count>28</identified_count>
+<identified_noun>earth</identified_noun><identified_count>29</identified_count>
+<identified_noun>earth</identified_noun><identified_count>30</identified_count>
+</recognized></DOCUMENT>

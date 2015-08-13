@@ -1,0 +1,51 @@
+<?xml-stylesheet href="#s1" type="text/css"?>
+    <DOCUMENT>
+	 <s id="s1">
+	        sentence_id { display: block }
+	        sentence_position { display: block }
+	 </s>
+<sentence><sentence_id>1</sentence_id><sentence_position>101</sentence_position></sentence>
+<sentence><sentence_id>2</sentence_id><sentence_position>402</sentence_position></sentence>
+<sentence><sentence_id>3</sentence_id><sentence_position>490</sentence_position></sentence>
+<sentence><sentence_id>4</sentence_id><sentence_position>804</sentence_position></sentence>
+<sentence><sentence_id>5</sentence_id><sentence_position>991</sentence_position></sentence>
+<sentence><sentence_id>6</sentence_id><sentence_position>1077</sentence_position></sentence>
+<sentence><sentence_id>7</sentence_id><sentence_position>1215</sentence_position></sentence>
+<sentence><sentence_id>8</sentence_id><sentence_position>1288</sentence_position></sentence>
+<sentence><sentence_id>9</sentence_id><sentence_position>1469</sentence_position></sentence>
+<sentence><sentence_id>10</sentence_id><sentence_position>1543</sentence_position></sentence>
+<sentence><sentence_id>11</sentence_id><sentence_position>1661</sentence_position></sentence>
+<sentence><sentence_id>12</sentence_id><sentence_position>1760</sentence_position></sentence>
+<sentence><sentence_id>13</sentence_id><sentence_position>1906</sentence_position></sentence>
+<sentence><sentence_id>14</sentence_id><sentence_position>2384</sentence_position></sentence>
+<sentence><sentence_id>15</sentence_id><sentence_position>2500</sentence_position></sentence>
+<sentence><sentence_id>16</sentence_id><sentence_position>2656</sentence_position></sentence>
+<sentence><sentence_id>17</sentence_id><sentence_position>2955</sentence_position></sentence>
+<sentence><sentence_id>18</sentence_id><sentence_position>2998</sentence_position></sentence>
+<sentence><sentence_id>19</sentence_id><sentence_position>3048</sentence_position></sentence>
+<sentence><sentence_id>20</sentence_id><sentence_position>3221</sentence_position></sentence>
+<sentence><sentence_id>21</sentence_id><sentence_position>3321</sentence_position></sentence>
+<sentence><sentence_id>22</sentence_id><sentence_position>3433</sentence_position></sentence>
+<sentence><sentence_id>23</sentence_id><sentence_position>3664</sentence_position></sentence>
+<sentence><sentence_id>24</sentence_id><sentence_position>3745</sentence_position></sentence>
+<sentence><sentence_id>25</sentence_id><sentence_position>3916</sentence_position></sentence>
+<sentence><sentence_id>26</sentence_id><sentence_position>4320</sentence_position></sentence>
+<sentence><sentence_id>27</sentence_id><sentence_position>4466</sentence_position></sentence>
+<sentence><sentence_id>28</sentence_id><sentence_position>4584</sentence_position></sentence>
+<sentence><sentence_id>29</sentence_id><sentence_position>4804</sentence_position></sentence>
+<sentence><sentence_id>30</sentence_id><sentence_position>4879</sentence_position></sentence>
+<sentence><sentence_id>31</sentence_id><sentence_position>5057</sentence_position></sentence>
+<sentence><sentence_id>32</sentence_id><sentence_position>5542</sentence_position></sentence>
+<sentence><sentence_id>33</sentence_id><sentence_position>5719</sentence_position></sentence>
+<sentence><sentence_id>34</sentence_id><sentence_position>5811</sentence_position></sentence>
+<sentence><sentence_id>35</sentence_id><sentence_position>5873</sentence_position></sentence>
+<sentence><sentence_id>36</sentence_id><sentence_position>6099</sentence_position></sentence>
+<sentence><sentence_id>37</sentence_id><sentence_position>6309</sentence_position></sentence>
+<sentence><sentence_id>38</sentence_id><sentence_position>6464</sentence_position></sentence>
+<sentence><sentence_id>39</sentence_id><sentence_position>6579</sentence_position></sentence>
+<sentence><sentence_id>40</sentence_id><sentence_position>6697</sentence_position></sentence>
+<sentence><sentence_id>41</sentence_id><sentence_position>6806</sentence_position></sentence>
+<sentence><sentence_id>42</sentence_id><sentence_position>6948</sentence_position></sentence>
+<sentence><sentence_id>43</sentence_id><sentence_position>7078</sentence_position></sentence>
+<sentence><sentence_id>44</sentence_id><sentence_position>7081</sentence_position></sentence>
+</DOCUMENT>
