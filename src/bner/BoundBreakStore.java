@@ -287,7 +287,7 @@ public class BoundBreakStore {
 		 return Input_Target;
 	 }
 	 
-	 static List inputTargetZip(){
+	 public static List inputTargetZip(){
 		 List Input_Target = new ArrayList();
 		 List entity_boundary_list = new ArrayList();
 		 
@@ -494,6 +494,7 @@ public class BoundBreakStore {
 			  source_container[i].set_sentence_position(list.get(i));
 			  i++;
 		      }
+		      
 		   // XML report 
 		      List sentence_structure = new ArrayList();
 		      //sentence_structure.add("<?xml version=\"1.0\"?><DOCUMENT>");
@@ -504,8 +505,7 @@ public class BoundBreakStore {
 		      sentence_structure.add("	        sentence_position { display: block }");
 		      sentence_structure.add("	 </s>");
 		      for (int i =0 ;i < list.size()-1; i++){
-		            
-		              sentence_structure.add("<sentence><sentence_id>"+(i+1)+"</sentence_id><sentence_position>"+list.get(i)+"</sentence_position></sentence>");
+		      sentence_structure.add("<sentence><sentence_id>"+(i+1)+"</sentence_id><sentence_position>"+list.get(i)+"</sentence_position></sentence>");
 		      }
 		      
 		      sentence_structure.add("</DOCUMENT>"); 
@@ -556,9 +556,7 @@ public class BoundBreakStore {
 		// Zip files - object to read from multiple files.
 			  
 		  Locale currentLocale = new Locale ("en","US");
-	      BreakIterator sentenceIterator = 
-	      BreakIterator.getSentenceInstance(currentLocale);
-	     
+	      BreakIterator sentenceIterator =   BreakIterator.getSentenceInstance(currentLocale);
 	     
 	      String str2 = "", str1 = "";
 	      final ZipFile file = new ZipFile( bnerp.CONSTANT_ZIP_SOURCE );

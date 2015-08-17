@@ -7,7 +7,9 @@ public class Entity {
     int sentence_position;
     String class_id;
     
-    
+    public Entity(){
+	
+    }
     public void set_entity (String word){
     // This constructor has one parameter.
 	this.entity 	= word;
